@@ -94,10 +94,10 @@ risc-v-cpu/
 ├── tb/
 │   └── cpu_tb.v
 │
-├── program.hex
+├── sw/
+│   └── program.hex
 │
-├── waveform/
-│   └── cpu.vcd
+├── wave.vcd
 │
 └── README.md
 ```
